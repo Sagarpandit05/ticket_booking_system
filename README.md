@@ -1,1 +1,1 @@
-# tikect_booking_system
+# ticket_booking_system
